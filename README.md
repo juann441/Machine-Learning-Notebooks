@@ -14,12 +14,12 @@ Chaque notebook est un guide pas à pas qui vous permet de :
 Les notebooks sont organisés par concept pour faciliter la navigation :
 
 ### Fondamentaux du Machine Learning
-* `01_Regression_Lineaire.ipynb` : Introduction à la régression linéaire simple et multiple.
-* `02_Regression_Logistique.ipynb` : Comprendre la régression logistique pour les problèmes de classification binaire.
+* `Regression_Lineaire.ipynb` : Introduction à la régression linéaire simple et multiple.
+* `Regression_Logistique.ipynb` : Comprendre la régression logistique pour les problèmes de classification binaire.
 
 ### Algorithmes de Classification
-* `03_KNN_Classification.ipynb` : Utilisation de l'algorithme K-plus proches voisins (KNN).
-* `04_SVM_Introduction.ipynb` : Présentation des Machines à Vecteurs de Support (SVM).
+* `Exercices_KNN.ipynb` : Utilisation de l'algorithme K-plus proches voisins (KNN).
+* `SVM_Introduction.ipynb` : Présentation des Machines à Vecteurs de Support (SVM).
 
 ### Évaluation et Validation
 * `05_Validation_Croisee.ipynb` : Techniques de validation croisée pour évaluer la robustesse d'un modèle.
