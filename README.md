@@ -19,11 +19,11 @@ Les notebooks sont organisés par concept pour faciliter la navigation :
 
 ### Algorithmes de Classification
 * `Exercices_KNN.ipynb` : Utilisation de l'algorithme K-plus proches voisins (KNN).
-* `SVM_Introduction.ipynb` : Présentation des Machines à Vecteurs de Support (SVM).
+* `Exercices_SVM.ipynb` : Présentation des Machines à Vecteurs de Support (SVM).
 
-### Évaluation et Validation
-* `05_Validation_Croisee.ipynb` : Techniques de validation croisée pour évaluer la robustesse d'un modèle.
-* `06_Metriques_Evaluation.ipynb` : Comprendre les métriques clés de classification (précision, rappel, F1-score, matrice de confusion).
+### Algorithmes de arbres de décision
+* `decision_tree.ipynb` : Utilisation de arbres de décision.
+* `random_forest.ipynb` : Présentation des fôrets aléatoires.
 
 ---
 
